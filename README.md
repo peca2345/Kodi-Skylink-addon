@@ -15,7 +15,7 @@
 	 tim se nastavi IPTVsimpleclient na hodnoty ze skylink addonu  
 7. v hlavním nastavení / media / obecné / povolit zobrazení skrytých adresářů  
 8. stáhnout starší verzi widevine -> [DOWNLOAD](https://github.com/peca2345/Kodi-Skylink-addon/raw/main/libwidevinecdm.so)  
-9. zkopirovat do root skrytého adresáře kodi:  
+9. zkopírovat do skrytého adresáře kodi:  
 	      správce souborů / přidat zdroj / procházet/ kořenový souborový systém  
 10. v tomto zdroji najit složku cdm a v ní nahradit libwidevinecdm.so tim co jsi stáhnul:  
 	      storage / .kodi / cdm /   
