@@ -7,7 +7,7 @@
 **Instalace:**
 
 1. registrovat skylink a zaplatit  
-2. nainstalovat addon skylink  
+2. nainstalovat addon skylink z CZ/SK repa [DOWNLOAD](https://kodi-czsk.github.io/repository/)  
 3. otevřít nastavení a nastavit pevné cesty pro playlist a epg v lokální složce zařizení  
 4. po uložení nastavení se vygeneruje playlist a epg 
 5. nainstalovat PVR IPTV simple client addon  
@@ -35,3 +35,6 @@
 - TV program: /storage/tvshows/epg.xml  
 - Timeshift: all on  
 - Catchup: all on  
+
+**Zdroj:**
+[xbmc-kodi.cz](https://www.xbmc-kodi.cz/prispevek-skylink-livetv-addon?fbclid=IwAR2LyNlfZMKUy_j3w_AsF4OOx0d-GKXujYZgzn4jzUnHn1rBzdClddwaD3I)  
