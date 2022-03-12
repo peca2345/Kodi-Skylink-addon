@@ -10,7 +10,7 @@
 **Instalace:**
 
 1. Vytvořte si účet Skylink a zaplaťte předplatné.  
-2. Nainstalujte addon Skylink Live TV z CZ/SK repa [ZDE](https://kodi-czsk.github.io/repository/)    
+2. Nainstalujte addon Skylink Live TV z CZ/SK repa. [ZDE](https://kodi-czsk.github.io/repository/)    
 3. V nastevení Skylinku vyberte Skylink CZ a zadejte login.  
 4. Dále v nastavení playlist a EPG nastavte cestu do jakékoliv složky v zařízení.  
 5. Po uložení nastavení se vygeneruje playlist a epg do zvoleného adresáře.  
@@ -26,7 +26,7 @@ Způsobuje to poslední verze winevide. Řešením je manuální downgrade nahra
 Problém detekován jen u CoreELEC. Na Windows a LibreELEC se neprojevuje.  
  
 1. Povolte zobrezení skrytých souborů. (nastavení/media/obecné)  
-2. Stáhněte starší verzi widevine. -> [ZDE](https://github.com/peca2345/Kodi-Skylink-addon/raw/main/libwidevinecdm.so)  
+2. Stáhněte starší verzi widevine. [ZDE](https://github.com/peca2345/Kodi-Skylink-addon/raw/main/libwidevinecdm.so)  
 3. Zkopírujte do skrytého adresáře kodi. (správce souborů/přidat zdroj/procházet/kořenový souborový systém)  
 4. V tomto zdroji najděte složku CDM a v ní nahraďte libwidevinecdm.so. (storage/.kodi/cdm)  
 5. Restartujte Kodi  
