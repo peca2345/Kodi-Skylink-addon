@@ -7,7 +7,7 @@
 **Instalace:**
 
 1. Vytvořte si účet Skylink a zaplaťte předplatné.  
-2. Nainstalujte addon Skylink Live TV z CZ/SK repa [DOWNLOAD](https://kodi-czsk.github.io/repository/)    
+2. Nainstalujte addon Skylink Live TV z CZ/SK repa [ZDE](https://kodi-czsk.github.io/repository/)    
 3. V nastevení Skylinku vyberte Skylink CZ a zadejte login.  
 4. Dále v nastavení playlist a EPG nastavte cestu do jakékoliv složky v zařízení.  
 5. Po uložení nastavení se vygeneruje playlist a epg do zvoleného adresáře.  
