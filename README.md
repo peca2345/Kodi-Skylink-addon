@@ -6,20 +6,27 @@
 
 **Instalace:**
 
-1. registrovat skylink a zaplatit  
-2. nainstalovat addon skylink z CZ/SK repa [DOWNLOAD](https://kodi-czsk.github.io/repository/)  
-3. otevřít nastavení a nastavit pevné cesty pro playlist a epg v lokální složce zařizení  
-4. po uložení nastavení se vygeneruje playlist a epg 
-5. nainstalovat PVR IPTV simple client addon  
-6. otevřít znovu skylink addon a otevřít záložku PVR IPTV Simple client a kliknout na nastavení  
-	 tim se nastavi IPTVsimpleclient na hodnoty ze skylink addonu  
-7. v hlavním nastavení / media / obecné / povolit zobrazení skrytých adresářů  
-8. stáhnout starší verzi widevine -> [DOWNLOAD](https://github.com/peca2345/Kodi-Skylink-addon/raw/main/libwidevinecdm.so)  
-9. zkopírovat do skrytého adresáře kodi:  
-	      správce souborů / přidat zdroj / procházet/ kořenový souborový systém  
-10. v tomto zdroji najit složku cdm a v ní nahradit libwidevinecdm.so tim co jsi stáhnul:  
-	      storage / .kodi / cdm /   
-11. restartovat kodi  
+1. Vytvořte si účet Skylink a zaplaťte předplatné.  
+2. Nainstalujte addon Skylink Live TV z CZ/SK repa [DOWNLOAD](https://kodi-czsk.github.io/repository/)    
+3. V nastevení Skylinku vyberte Skylink CZ a zadejte login.  
+4. Dále v nastavení playlist a EPG nastavte cestu do jakékoliv složky v zařízení.  
+5. Po uložení nastavení se vygeneruje playlist a epg do zvoleného adresáře.  
+6. Spusťte nějaký stream z addonu Skylink a tím se nainstaluje widevine.  
+7. Nainstalujte addon PVR IPTV Simple client, otevřete nastavení, uložte ho a restartujte Kodi.    
+8. Otevřete znovu Skylink addon/záložku PVR IPTV Simple client a klikněte na nastavení PVR IPTV Simple client.  
+9. Tím se zkopírují cesty playlist a EPG z Skylink do IPTV Simple client.  
+9. Restartuje Kodi.  
+	 
+**Sekání streamu:**
+
+Způsobuje to poslední verze winevide. Řešením je manuální downgrade nahrazením souboru v root adresáři Kodi.  
+Problém detekován jen u CoreELEC. Na Windows a LibreELEC se neprojevuje.  
+ 
+1. Povolte zobrezení skrytých souborů. (nastavení/media/obecné)  
+2. Stáhněte starší verzi widevine. -> [ZDE](https://github.com/peca2345/Kodi-Skylink-addon/raw/main/libwidevinecdm.so)  
+3. Zkopírujte do skrytého adresáře kodi. (správce souborů/přidat zdroj/procházet/kořenový souborový systém)  
+4. V tomto zdroji najděte složku CDM a v ní nahraďte libwidevinecdm.so. (storage/.kodi/cdm)  
+5. Restartujte Kodi  
 
 **Skylink - nastavení:**   
 - Účet / Poskytovatel - Skylink CZ    
@@ -35,6 +42,9 @@
 - TV program: /storage/tvshows/epg.xml  
 - Timeshift: all on  
 - Catchup: all on  
+
+**PVR a Živé vysílání:**
+- Televizní program/výchozí akce při výběru/chytrý výběr  
 
 **Zdroj:**
 [xbmc-kodi.cz](https://www.xbmc-kodi.cz/prispevek-skylink-livetv-addon?fbclid=IwAR2LyNlfZMKUy_j3w_AsF4OOx0d-GKXujYZgzn4jzUnHn1rBzdClddwaD3I)  
