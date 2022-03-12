@@ -49,5 +49,8 @@ Problém detekován jen u CoreELEC. Na Windows a LibreELEC se neprojevuje.
 **PVR a Živé vysílání:**
 - Televizní program/výchozí akce při výběru/chytrý výběr  
 
+**Tipy:**
+- dlouhé podržení OK otevře přehledný seznam stanic na levé straně bez přerušení streamu
+
 **Zdroj:**
 [xbmc-kodi.cz](https://www.xbmc-kodi.cz/prispevek-skylink-livetv-addon?fbclid=IwAR2LyNlfZMKUy_j3w_AsF4OOx0d-GKXujYZgzn4jzUnHn1rBzdClddwaD3I)  
