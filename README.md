@@ -14,7 +14,7 @@
 6. Spusťte nějaký stream z addonu Skylink a tím se nainstaluje widevine.  
 7. Nainstalujte addon PVR IPTV Simple client, otevřete nastavení, uložte ho a restartujte Kodi.    
 8. Otevřete znovu Skylink addon/záložku PVR IPTV Simple client a klikněte na nastavení PVR IPTV Simple client.  
-9. Tím se zkopírují cesty playlist a EPG z Skylink do IPTV Simple client.  
+9. Tím se zkopírují cesty playlist a EPG ze Skylink do IPTV Simple client.  
 9. Restartuje Kodi.  
 	 
 **Sekání streamu:**
