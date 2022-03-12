@@ -19,17 +19,17 @@
 	      storage / .kodi / cdm /   
 12. restartovat kodi  
 
-**Skylink - nastavení:** 
-	Účet / Poskytovatel - Skylink CZ  
-	Playlist / umistění playlistu: /storage/twshows  
-	EPG / umístění EPG: storage/twshows  
-	Archiv / vše zapnout  
+**Skylink - nastavení:**   
+- Účet / Poskytovatel - Skylink CZ    
+- Playlist / umistění playlistu: /storage/twshows  
+- EPG / umístění EPG: storage/twshows  
+- Archiv / vše zapnout  
 	
-**InputStream Adaptive - nastavení:**
-	bez úprav - default  
+**InputStream Adaptive - nastavení:**  
+- bez úprav - default    
 
-**PVR IPTV Simple Client nastaveni:** 
-	M3U playlist: /storage/tvshows/playlist.m3u  
-	TV program: /storage/tvshows/epg.xml  
-	Timeshift: all on  
-	Catchup: all on  
+**PVR IPTV Simple Client nastaveni:**   
+- M3U playlist: /storage/tvshows/playlist.m3u  
+- TV program: /storage/tvshows/epg.xml  
+- Timeshift: all on  
+- Catchup: all on  
