@@ -1,5 +1,9 @@
 # Kodi Skylink IPTV addon
 
+![obrazek](https://user-images.githubusercontent.com/58307338/158026556-d43929a6-232d-4852-afbb-b99b9cd78115.png)
+
+
+
 **Instalace:**
 
 1. registrovat skylink a zaplatit  
