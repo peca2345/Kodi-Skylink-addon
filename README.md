@@ -2,7 +2,10 @@
 
 ![obrazek](https://user-images.githubusercontent.com/58307338/158026556-d43929a6-232d-4852-afbb-b99b9cd78115.png)
 
-
+**Konfigurace:**
+- CoreELEC/LibreELEC 19.5
+- Mecool KM9 Pro (S905X2 / 4GB RAM / 32GB ROM / Mali-G31 MP2)
+- ELEC boot z USB3 flash disku
 
 **Instalace:**
 
