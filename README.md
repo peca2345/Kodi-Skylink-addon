@@ -10,8 +10,7 @@
 6. otevřít znovu skylink addon a otevřít záložku PVR IPTV Simple client a kliknout na nastavení  
 	 tim se nastavi IPTVsimpleclient na hodnoty ze skylink addonu  
 7. v hlavním nastavení / media / obecné / povolit zobrazení skrytých adresářů  
-8. stáhnout starší verzi widevine (s novou se všechno seká a nestíhá buffer)  
-	      https://k.slyguy.xyz/.decryptmodules/widevine/4.10.2252.0-linux-armv7.so  
+8. stáhnout starší verzi widevine (s novou se všechno seká a nestíhá buffer) -> [DOWNLOAD](https://github.com/peca2345/Kodi-Skylink-addon/raw/main/libwidevinecdm.so)  
 9. přejmenovat 4.10.2252.0-linux-armv7.so na libwidevinecdm.so  
 10. zkopirovat do root skrytého adresáře kodi  
 	      správce souborů / přidat zdroj / procházet/ kořenový souborový systém  
