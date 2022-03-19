@@ -24,8 +24,8 @@
 
 Způsobuje to poslední verze winevide. Řešením je manuální downgrade nahrazením souboru v root adresáři Kodi.  
 Problém detekován jen u CoreELEC. Na Windows a LibreELEC se neprojevuje.  
- 
-1. Povolte zobrezení skrytých souborů. (nastavení/media/obecné)  
+
+1. Povolte zobrezení skrytých souborů v režimu expert. (nastavení/media/obecné)  
 2. Stáhněte starší verzi widevine. [ZDE](https://github.com/peca2345/Kodi-Skylink-addon/raw/main/libwidevinecdm.so)  
 3. Zkopírujte do skrytého adresáře kodi. (správce souborů/přidat zdroj/procházet/kořenový souborový systém)  
 4. V tomto zdroji najděte složku CDM a v ní nahraďte libwidevinecdm.so. (storage/.kodi/cdm)  
